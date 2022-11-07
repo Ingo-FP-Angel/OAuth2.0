@@ -1,2 +1,3 @@
 *.db
-*.local.json
+client_secrets.json
+__pycache__
