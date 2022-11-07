@@ -4,7 +4,7 @@ Starter Code for Auth&amp;Auth course
 # Running the project without Vagrant
 
 ```
-pip3 install flask sqlalchemy
+pip3 install flask oauth2client sqlalchemy
 python3 database_setup.py
 python3 lotsofmenus.py
 python3 project.py
