@@ -1,5 +1,15 @@
 # OAuth2.0
 Starter Code for Auth&amp;Auth course
+
+# Running the project without Vagrant
+
+```
+pip3 install flask sqlalchemy
+python3 database_setup.py
+python3 lotsofmenus.py
+python3 project.py
+```
+
 # Installing the Vagrant VM for ud330 - Authentication & Authorization
 
 **Note: If you already have a vagrant machine installed from previous Udacity courses skip to the 'Fetch the Source Code and VM Configuration' section**
